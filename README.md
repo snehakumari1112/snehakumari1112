@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
-<h3 align="center"> **Programming is logic-based creativity. While you might not think that programmers are artists, we turn complex logic into functional, beautiful solutions.** 
+<h3 align="center"> Programming is logic-based creativity. While you might not think that programmers are artists, we turn complex logic into functional, beautiful solutions.</h3>
 
-I am a graduate in Information Science and Engineering with a passion for building engaging and user-friendly web applications. Currently working as a Freelance Frontend Developer, I enjoy blending creativity with code to deliver intuitive and dynamic digital experiences.”</h3>
+<h4 align="center">I am a graduate in Information Science and Engineering with a passion for building engaging and user-friendly web applications. Currently working as a Freelance Frontend Developer, I enjoy blending creativity with code to deliver intuitive and dynamic digital experiences.”</h4>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif">
 
