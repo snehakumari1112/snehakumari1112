@@ -9,9 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sneha-kumari-4b6056232](https://www.linkedin.com/in/sneha-kumari-4b6056232)
 
-- 💬 Ask me about **Flutter, Mathematics, Coding**
+- 💬 Ask me about **Web Development, Flutter, Mathematics, Coding**
 
 - 📫 How to reach me **visionsneha5@gmail.com**
+
+- 👨‍💻 My portfolio [https://www.linkedin.com/in/sneha-kumari-4b6056232](https://snehakumari-portfolio.netlify.app)
+
 
 - ⚡ Fun fact **One thing I cannot live without is laughing**
 
