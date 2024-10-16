@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
-<h3 align="center">I am a student of Information Science and Engineering.“You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.”</h3>
+<h3 align="center">**Programming is logic-based creativity. While you might not think that programmers are artists, we turn complex logic into functional, beautiful solutions.**
+
+I am a graduate in Information Science and Engineering with a passion for building engaging and user-friendly web applications. Currently working as a Freelance Frontend Developer, I enjoy blending creativity with code to deliver intuitive and dynamic digital experiences.”</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif">
 
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **visionsneha5@gmail.com**
 
-- 👨‍💻 My portfolio [https://www.linkedin.com/in/sneha-kumari-4b6056232](https://snehakumari-portfolio.netlify.app)
+- 👨‍💻 My portfolio [https://snehakumari-portfolio.netlify.app](https://snehakumari-portfolio.netlify.app)
 
 
 - ⚡ Fun fact **One thing I cannot live without is laughing**
