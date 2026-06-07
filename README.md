@@ -1,36 +1,69 @@
-
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
-<h3 align="center"> Programming is logic-based creativity. While you might not think that programmers are artists, we turn complex logic into functional, beautiful solutions.</h3>
 
-<h4 align="center">I am a graduate in Information Science and Engineering with a passion for building engaging and user-friendly web applications. Currently working as a Freelance Frontend Developer, I enjoy blending creativity with code to deliver intuitive and dynamic digital experiences.”</h4>
+<h3 align="center">Full Stack Developer | Flutter Developer | React.js Enthusiast</h3>
+
+<p align="center">
+Building scalable web and mobile applications with Flutter, React.js, Node.js, and modern backend technologies.
+</p>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif">
 
+## 🚀 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehakumari1112&label=Profile%20views&color=0e75b6&style=flat" alt="snehakumari1112" /> </p>
+* 💼 Full Stack Developer at Muncho Technologies
+* 📱 Experienced in Flutter, React.js, React Native, Node.js, and Express.js
+* 🔥 Passionate about building responsive, user-centric web and mobile applications
+* 🌱 Currently exploring Docker, PostgreSQL, and scalable backend architectures
+* 🤝 Open to collaborating on Full Stack, Frontend, and Mobile App Development projects
+* 📍 Based in Raipur, India
+* ⚡ I enjoy turning ideas into real-world products through clean and efficient code
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sneha-kumari-4b6056232](https://www.linkedin.com/in/sneha-kumari-4b6056232)
+## 🛠️ Tech Stack
 
-- 💬 Ask me about **Web Development, Flutter, Mathematics, Coding**
+### Frontend
 
-- 📫 How to reach me **visionsneha5@gmail.com**
+React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS
 
-- 👨‍💻 My portfolio [https://snehakumari-portfolio.netlify.app](https://snehakumari-portfolio.netlify.app)
+### Mobile
 
+Flutter • Dart • React Native • GetX
 
-- ⚡ Fun fact **One thing I cannot live without is laughing**
+### Backend
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sneha kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha kumari" height="30" width="40" /></a>
-</p>
+Node.js • Express.js • REST APIs
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Databases
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehakumari1112&show_icons=true&locale=en&layout=compact" alt="snehakumari1112" /></p>
+PostgreSQL • MySQL • Firebase
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehakumari1112&show_icons=true&locale=en" alt="snehakumari1112" /></p>
+### Tools & Platforms
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehakumari1112&" alt="snehakumari1112" /></p>
+Git • GitHub • Docker • Postman • VS Code • Figma • Webflow
 
+### Integrations
+
+Razorpay • Shiprocket • Reelo • APISIX
+
+## 🌟 Featured Projects
+
+### 💬 Chat Application
+
+A real-time chat application built with Flutter and Firebase featuring authentication, notifications, and media sharing.
+
+### ✈️ Travel Website
+
+Responsive website built with modern UI principles using Tailwind CSS and mobile-first design practices.
+
+### 🍽️ Waiter Management Application
+
+Developed production-ready Flutter application with GetX state management, REST API integrations, and Firebase support.
+
+## 📫 Connect With Me
+
+📧 Email: [visionsneha5@gmail.com](mailto:visionsneha5@gmail.com)
+
+🌐 Portfolio: https://snehakumari-portfolio.netlify.app
+
+💼 LinkedIn: https://linkedin.com/in/sneha-kumari-4b6056232
+
+💻 GitHub: https://github.com/snehakumari1112
