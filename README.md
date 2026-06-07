@@ -1,69 +1,150 @@
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
 
-<h3 align="center">Full Stack Developer | Flutter Developer | React.js Enthusiast</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Flutter+Developer;React.js+%7C+Node.js+Developer;Building+Scalable+Web+%26+Mobile+Applications;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</h3>
 
-<p align="center">
-Building scalable web and mobile applications with Flutter, React.js, Node.js, and modern backend technologies.
+<h4 align="center">
+Turning ideas into scalable digital products through clean code, creativity, and continuous learning.
+</h4>
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=snehakumari1112&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/542979/screenshots/3000076/sarah-working-on-computer.gif">
+* 💼 Full Stack Developer at **Muncho Technologies**
+* 🚀 Building production-ready applications using **Flutter, React.js, React Native, Node.js & Express.js**
+* 📱 Developed mobile and web applications used in real business workflows
+* 🔥 Experienced with **GetX State Management, REST APIs, Firebase, MySQL & PostgreSQL**
+* 🎨 Built responsive dashboards and custom modules including a **QR Code Designer**
+* 💳 Worked with **Razorpay, Shiprocket, Reelo & APISIX** integrations
+* 🐳 Currently learning **Docker, Backend Architecture & System Design**
+* 🌍 Based in **Raipur, India**
+* 🤝 Open to Full Stack, Frontend and Flutter opportunities
+* ⚡ Fun Fact: I love solving complex problems and transforming them into simple user experiences
 
-## 🚀 About Me
+## 🌐 Connect With Me
 
-* 💼 Full Stack Developer at Muncho Technologies
-* 📱 Experienced in Flutter, React.js, React Native, Node.js, and Express.js
-* 🔥 Passionate about building responsive, user-centric web and mobile applications
-* 🌱 Currently exploring Docker, PostgreSQL, and scalable backend architectures
-* 🤝 Open to collaborating on Full Stack, Frontend, and Mobile App Development projects
-* 📍 Based in Raipur, India
-* ⚡ I enjoy turning ideas into real-world products through clean and efficient code
+<p align="left">
+<a href="https://linkedin.com/in/sneha-kumari-4b6056232" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:visionsneha5@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
-## 🛠️ Tech Stack
+🌐 Portfolio: **https://snehakumari-portfolio.netlify.app**
+
+📧 Email: **[visionsneha5@gmail.com](mailto:visionsneha5@gmail.com)**
+
+---
+
+## 🚀 Tech Stack
 
 ### Frontend
 
-React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
 
-### Mobile
+### Mobile Development
 
-Flutter • Dart • React Native • GetX
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
 ### Backend
 
-Node.js • Express.js • REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Databases
 
-PostgreSQL • MySQL • Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+</p>
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python" />
+</p>
 
 ### Tools & Platforms
 
-Git • GitHub • Docker • Postman • VS Code • Figma • Webflow
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,figma" />
+</p>
 
-### Integrations
+---
 
-Razorpay • Shiprocket • Reelo • APISIX
+## 💡 A Little About Me
+
+```javascript
+const sneha = {
+    role: "Full Stack Developer",
+    company: "Muncho Technologies",
+
+    frontend: ["React.js", "JavaScript", "Tailwind CSS"],
+    mobile: ["Flutter", "React Native", "GetX"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+
+    databases: ["PostgreSQL", "MySQL", "Firebase"],
+
+    integrations: [
+        "Razorpay",
+        "Shiprocket",
+        "Reelo",
+        "APISIX"
+    ],
+
+    tools: [
+        "Docker",
+        "Git",
+        "GitHub",
+        "Postman",
+        "Figma"
+    ],
+
+    currentFocus: [
+        "Scalable Applications",
+        "System Design",
+        "Backend Development"
+    ],
+
+    motto: "Keep learning. Keep building."
+};
+```
+
 
 ## 🌟 Featured Projects
 
+### 🍽️ Waiter Management Application
+
+* Developed using Flutter and GetX
+* Integrated REST APIs and Firebase
+* Streamlined restaurant order workflows
+
 ### 💬 Chat Application
 
-A real-time chat application built with Flutter and Firebase featuring authentication, notifications, and media sharing.
+* Real-time chat using Flutter & Firebase
+* Authentication, notifications & media sharing
+* Smooth and modern user experience
 
 ### ✈️ Travel Website
 
-Responsive website built with modern UI principles using Tailwind CSS and mobile-first design practices.
+* Responsive UI built with Tailwind CSS
+* Mobile-first design approach
+* Improved user engagement and consistency
 
-### 🍽️ Waiter Management Application
+---
 
-Developed production-ready Flutter application with GetX state management, REST API integrations, and Firebase support.
+<h3 align="center">
+✨ "Programming is where logic meets creativity and ideas become reality."
+</h3>
 
-## 📫 Connect With Me
 
-📧 Email: [visionsneha5@gmail.com](mailto:visionsneha5@gmail.com)
-
-🌐 Portfolio: https://snehakumari-portfolio.netlify.app
-
-💼 LinkedIn: https://linkedin.com/in/sneha-kumari-4b6056232
-
-💻 GitHub: https://github.com/snehakumari1112
