@@ -8,7 +8,7 @@
 Turning ideas into scalable digital products through clean code, creativity, and continuous learning.
 </h4>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=snehakumari1112&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
